@@ -1,4 +1,5 @@
 #Excel
+Análisis de Ventas de la Tienda Departamental "EL SOL"
 
 ##Objetivo del Análisis
 Realizar un Análisis de Datos de las Ventas de la Tienda Departamental "EL SOL", de un conjunto de datos de ventas del año 2023 en las categorías
